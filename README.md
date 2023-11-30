@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </br>
 </p>
   
- # Stats
+ ### Stats
  
   <p align="center">
  
