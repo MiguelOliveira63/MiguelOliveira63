@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###
+
 <h2>📫 Reach me out 
  
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
@@ -25,8 +27,9 @@ Here are some ideas to get you started:
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/migueloliveira_63//)](https://www.instagram.com/migueloliveira_63/)
 
-
 ### Tools
+
+<p align="center">
 
   <img align="left" alt="Html5" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="left" alt="Css3" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -38,6 +41,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
   <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="left" alt="Github" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+</p>
   <br />
   <br />
 
