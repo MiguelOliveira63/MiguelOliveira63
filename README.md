@@ -1,6 +1,6 @@
 # ⚡Miguel Oliveira
 
-**'Software Engineer Student'** 
+**`Junior Software Enginner`**
 
 Ola O meu nome é miguel, estudante de Engenharia Informática no IPVC.
 <!--
@@ -18,16 +18,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 Reach me out 
-</br>
-</br>
- 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/miguel-oliveira-052a18238/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/migueloliveira_63//)](https://www.instagram.com/migueloliveira_63/)
+---
 
+### 📫 Reach me out 
+<p align="left">
+         
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/miguel-oliveira-052a18238/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/migueloliveira_63//)](https://www.instagram.com/migueloliveira_63/)
+</p>
 
-## Tools
+---
+
+### Tools
 
 <p align="center">
 
@@ -47,7 +50,7 @@ Here are some ideas to get you started:
   </br>
 </p>
   
-## Stats
+### 📊 Stats
  
   <p align="center">
  
