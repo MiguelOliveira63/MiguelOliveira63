@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <h2>📫 Reach me out 
  
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/miguel-oliveira-052a18238/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=plastic&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/migueloliveira_63//)](https://www.instagram.com/migueloliveira_63/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/migueloliveira_63//)](https://www.instagram.com/migueloliveira_63/)
 
 
 ### Tools
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
   <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="left" alt="Github" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <br />
   <br />
 
  ###
