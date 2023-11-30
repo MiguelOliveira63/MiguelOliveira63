@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
 ### 📫 Reach me out 
 <p align="left">
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 
 ### Tools
 
-<p align="center">
-
   <img align="left" alt="Html5" width="63px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="left" alt="Css3" width="63px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="left" alt="Php" width="63px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -45,11 +42,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Git" width="63px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="left" alt="Github" width="63px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </br>
-  </br>
-  </br>
-  </br>
-</p>
-  
+
+#
+ 
 ### 📊 Stats
  
   <p align="center">
