@@ -2,7 +2,6 @@
 
 **`Junior Software Enginner`**
 
-Ola o meu nome é iguel, estudante de Engenharia Informática no IPVC.
 <!--
 **MiguelOliveira63/MiguelOliveira63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
   
   </br>
 
-#
+---
 
 ### 📊 Stats
  
