@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 #
 
 <h2>📫 Reach me out 
+</br>
  
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:migueloliveira6333@gmail.com)](mailto:migueloliveira6333@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/miguel-oliveira-052a18238/)
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   </br>
 </p>
   
- ###
+ # Stats
  
   <p align="center">
  
