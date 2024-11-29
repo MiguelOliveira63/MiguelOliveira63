@@ -1,6 +1,6 @@
 # 🛹Miguel Oliveira
 
-**`Junior Software Enginner`**
+**`Software Enginner`**
 
 <!--
 **MiguelOliveira63/MiguelOliveira63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
